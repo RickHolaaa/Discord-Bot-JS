@@ -1,0 +1,16 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "Bot music",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "RickHola",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1",
+    "node-fetch": "^3.3.2"
+  }
+}
